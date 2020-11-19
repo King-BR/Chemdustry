@@ -2,10 +2,8 @@
     "name": "chemdustry",
     "displayName": "[#1af7ff]Chem[orange]dustry[]",
     "author": "KingBR",
-    "description": "Chemistry mod for Mindustry.",
+    "description": "Super interesting description that im too lazy to make righ now.",
     "version": 0.1,
     "minGameVersion": 104,
-    "dependencies": [
-        "rtfm"
-    ]
+    "dependencies": []
 }
