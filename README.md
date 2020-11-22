@@ -1,4 +1,3 @@
-# Welcome to Chemdustry!
-## About
+Apparently someone else made a mod of the same concept and name before me, so I'm abandoning the project.
 
-Super interesting about text that im too lazy to make right now
+The link for the other mod [Firegoesblue/Chemdustry](https://github.com/Firegoesblue/Chemdustry)
